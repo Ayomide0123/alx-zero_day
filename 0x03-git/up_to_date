@@ -1,0 +1,4 @@
+git checkout master    # move on your branch (make sure it exists)
+git fetch origin          # fetch all changes
+git pull origin master    # pull changes from the origin remote, master branch and merge them into my_branch
+git push origin master # push my_branch
